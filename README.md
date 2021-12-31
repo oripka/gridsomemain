@@ -56,4 +56,3 @@ Build websites using latest web tech tools that developers love - Vue.js, GraphQ
 
 - [How it works](https://gridsome.org/docs/how-it-works)
 - [How to deploy](https://gridsome.org/docs/deployment)
-# gridsomemain
